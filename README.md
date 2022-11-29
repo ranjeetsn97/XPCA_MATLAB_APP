@@ -52,19 +52,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+This Application, the first of its kind on this platform,
+is designed primarily for classroom training, academic
+purposes, Industrial and Commercial Applications. The Toolbox contains options for constructing mathematical data-driven models for Error-in-Variable (\ EIV )\  linear-time invariant (\ LTI )\ systems for Dynamic Models from measured input-output data as well as Static Models for heteroskedastic error variables. In the present version of the App Toolbox the class of systems are restricted to Single Input Single Output (\ SISO )\ Dynamic Systems. The Toolbox is also useful for model validation using bootstrapping for confidence interval calculation and residual analysis using EIV Kalman filter. The App Toolbox has been designed for Novice and Expert User to Estimate and Validate models using multiple options and methods. The Backend of the App Toolbox has been designed in thr "Strategic pattern" and "Singleton pattern" such that future developers can plug new options and methods very easily without disturbing the integrity of other components in the Application.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +97,7 @@ MATLAB application for XPCA. The user must have MATLAB installed to install the 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: readme_files/XPCA_latest_look.jpg
+[product-screenshot]: readme_files/XPCA_screenshot.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
