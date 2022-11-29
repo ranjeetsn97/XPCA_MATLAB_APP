@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ranjeetsn/XPCA_MATLAB_APP">
-    <img src="readme_files/XPCA_app_logo.jpg" alt="Logo" width="160" height="74">
+    <img src="readme_files/XPCA_app_logo.jpg" alt="Logo" width="320" height="148">
   </a>
 
   <h3 align="center">XPCA Application MATLAB</h3>
@@ -158,9 +158,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@RanjeetNagarka2](https://twitter.com/RanjeetNagarka2) - ranjeet.sn96@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/ranjeetsn/XPCA_MATLAB_APP](https://github.com/ranjeetsn/XPCA_MATLAB_APP)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
