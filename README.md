@@ -1,24 +1,12 @@
-.. image:: https://raw.githubusercontent.com/ncbi-nlp/NegBio/master/images/negbio.png?raw=true
-   :target: https://raw.githubusercontent.com/ncbi-nlp/NegBio/master/images/negbio.png?raw=true
-   :alt: NegBio
-
------------------------
-
-.. image:: https://img.shields.io/travis/yfpeng/NegBio/master.svg
-   :target: https://travis-ci.org/yfpeng/NegBio
-   :alt: Build status
-
-.. image:: https://img.shields.io/pypi/v/negbio.svg
-   :target: https://pypi.python.org/pypi/negbio
-   :alt: PyPI version
-
-.. image:: https://img.shields.io/readthedocs/negbio.svg
-   :target: http://negbio.readthedocs.io
-   :alt: RTD version
-
-
-NegBio is a high-performance NLP tool for negation and uncertainty detection in clinical texts (e.g. radiology reports).
-
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a name="readme-top"></a>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
 # XPCA_MATLAB_APP
 MATLAB application for XPCA. The user must have MATLAB installed to install the App.
