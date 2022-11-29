@@ -5,10 +5,10 @@
     <img src="readme_files/XPCA_app_logo.jpg" alt="Logo" width="160" height="74">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">XPCA Application MATLAB</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome application to model dynamic and static processes!
     <br />
     <a href="https://github.com/ranjeetsn/XPCA_MATLAB_APP"><strong>Explore the docs »</strong></a>
     <br />
@@ -54,9 +54,7 @@
 ## About The Project
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This Application, the first of its kind on this platform,
-is designed primarily for classroom training, academic
-purposes, Industrial and Commercial Applications. The Toolbox contains options for constructing mathematical data-driven models for Error-in-Variable (\ EIV )\  linear-time invariant (\ LTI )\ systems for Dynamic Models from measured input-output data as well as Static Models for heteroskedastic error variables. In the present version of the App Toolbox the class of systems are restricted to Single Input Single Output (\ SISO )\ Dynamic Systems. The Toolbox is also useful for model validation using bootstrapping for confidence interval calculation and residual analysis using EIV Kalman filter. The App Toolbox has been designed for Novice and Expert User to Estimate and Validate models using multiple options and methods. The Backend of the App Toolbox has been designed in thr "Strategic pattern" and "Singleton pattern" such that future developers can plug new options and methods very easily without disturbing the integrity of other components in the Application.
+The XPCA Application, the first of its kind on this platform, is designed primarily for classroom training, academic purposes, Industrial and Commercial Applications. The Toolbox contains options for constructing mathematical data-driven models for Error-in-Variable (EIV) linear-time invariant (LTI) systems for Dynamic Models from measured input-output data as well as Static Models for heteroskedastic error variables. In the present version of the App Toolbox the class of systems are restricted to Single Input Single Output (SISO) Dynamic Systems. The Toolbox is also useful for model validation using bootstrapping for confidence interval calculation and residual analysis using EIV Kalman filter. The App Toolbox has been designed for Novice and Expert User to Estimate and Validate models using multiple options and methods. The Backend of the App Toolbox has been designed in the "Strategic pattern" and "Singleton pattern" such that future developers can plug new options and methods very easily without disturbing the integrity of other components in the Application.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
