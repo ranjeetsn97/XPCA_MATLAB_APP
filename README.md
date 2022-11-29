@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/ranjeetsn/XPCA_MATLAB_APP">
     <img src="readme_files/XPCA_app_logo.jpg" alt="Logo" width="160" height="74">
   </a>
 
@@ -10,14 +10,14 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ranjeetsn/XPCA_MATLAB_APP"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/ranjeetsn/XPCA_MATLAB_APP">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/ranjeetsn/XPCA_MATLAB_APP/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/ranjeetsn/XPCA_MATLAB_APP/issues">Request Feature</a>
   </p>
 </div>
 
