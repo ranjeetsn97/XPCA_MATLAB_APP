@@ -115,12 +115,19 @@ _Below is an example of how you can instruct your audience on installing and set
     </br>
     
   * Model configurations
-    1. Input and Output column 
-      1. If the user loads the data as a .mat file, the user inputs the input column or the output column in the .mat file, eg.
+    * Input and Output column (Inputs)
+      1. If the user loads the data as a `.mat` file, the user inputs the input column or the output column in the .mat file, eg.
          ```sh
-         input col.: [1,2,3] output col.: [4:5], # .mat Data file has inputs in column 1,2,3 while has outputs in column 4,5
-         # for tie series object the inputs and output columns are readily extracted without any user inputs
+         input col.: [1,2,3] output col.: [4:5], # .mat Data file has inputs in column 1,2,3 and outputs in column 4,5
          ```
+      2. For `MATLAB Time Series object` the inputs and output columns are readily extracted without any user inputs
+    
+     * Noise Model (radio button)
+       1. Choose Static for Static process
+       2. Choose Dynamic for Dynamic process (Please note app currently supports SISO dynamic processes only)
+       
+     * Noise Variances (radio button)
+       1. If the user knows the variance of input and output variables the user must choose `Known`. The app then prompts the user to input the variables in the     advanced options section
     
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
