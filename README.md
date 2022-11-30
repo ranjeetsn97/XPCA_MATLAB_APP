@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ranjeetsn/XPCA_MATLAB_APP">
-    <img src="readme_files/XPCA_app_logo.jpg" alt="Logo" width="320" height="148">
+    <img src="XPCA_app_logo.jpg" alt="Logo" width="320" height="148">
   </a>
 
   <h3 align="center">XPCA Application MATLAB</h3>
@@ -229,11 +229,11 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: readme_files/XPCA_screenshot.jpg
+[product-screenshot]: XPCA_screenshot.jpg
 [Matlab.com]: https://img.shields.io/badge/M-MATLAB-orange
 [Matlab-url]: https://in.mathworks.com/products/matlab.html
 [MatlabApp.com]: https://img.shields.io/badge/M-MATLAB%20App%20designer-orange
 [MatlabApp-url]: https://in.mathworks.com/products/matlab/app-designer.html
 [Matlabguide.com]: https://img.shields.io/badge/M-MATLAB%20GUIDE-orange
 [Matlabguide-url]: https://in.mathworks.com/help/matlab/migrate-guide-apps.html
-[Datadimensions]: readme_files/Data_info.jpg
+[Datadimensions]: Data_info.jpg
