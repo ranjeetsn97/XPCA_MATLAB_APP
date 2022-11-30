@@ -147,7 +147,19 @@ _Below is an example of how you can instruct your audience on installing and set
       ![Model_building](readme_files/XPCA_variance_order.gif)
       
 * Model Validation
-     * Compute Confidence Interval (Button)
+    * Compute Confidence Interval (Button)
+      1. When the user presses Compute Confidence Interval button the user is prompted to change the variable for computing confidence interval of the model coefficients.
+      2. The parameters are for the bootstrap models in the Advanced Options - Model Validation. Here the user chooses the size of the Bootstraps model, the user must take care that the size of the bootstrap is less than length of data, the number of bootstraps, the higher the number of bootstraps the better the accuracy of the bootstrap but it also slows down the application, confidence interval percentage(CI significance) of the bootstrap, which constructs the interval depending on the CI significance value. If the Confidence interval for the coefficient contains zero it implies the model coefficient is insignificant.
+    * Compute Residuals (Button)
+      1. To check for whiteness of the data residuals we use the EIV Kalman filter. If the residuals are white then all the maximum possible information from the data has been extracted and no more information can be extracted from the data.
+    
+* Model comparison (feature only supported for dynamic models)
+    * Cross Validate (Button)
+      1. After pressing the button a pop-up prompts the user which contains for model comparison with data and the predicted data (currently this feature is only supported for the dynamic processes)
+      2. The user must load the data for comparison in the pop-up
+    * Model Comparison (Button)
+      1. After pressing the button a pop-up prompts the user to compare the XPCA model to other models for a dataset. The user can load many models for comparison and can also load multiple datas (the user can only compare one data at a time however can compare multiple models)
+      2. The user must load the data sets and the model for comparison in the pop-up
     
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
