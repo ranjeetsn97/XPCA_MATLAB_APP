@@ -195,7 +195,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@RanjeetNagarka2](https://twitter.com/RanjeetNagarka2) - ranjeet.sn96@gmail.com
+Ranjeet Nagarkar - [@RanjeetNagarka2](https://twitter.com/RanjeetNagarka2) - ranjeet.sn96@gmail.com
 
 Project Link: [https://github.com/ranjeetsn/XPCA_MATLAB_APP](https://github.com/ranjeetsn/XPCA_MATLAB_APP)
 
