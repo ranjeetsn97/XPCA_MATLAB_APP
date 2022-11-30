@@ -174,7 +174,7 @@ _Below is an example of how you can instruct your audience on installing and set
 - [x] Kalman Validation and Prediction
 - [x] Model comparison
 - [ ] Add pre-processing section
-  - [ ]  Stationarity test like ADF or KPSS test (another pop up needed)
+  - [ ]  Stationarity tests ADF or KPSS test (another pop up needed)
   - [ ]  Normalization of input data
   - [ ]  Suggestions from open issues
 - [ ] Add OE and MIMO models
