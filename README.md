@@ -90,9 +90,7 @@ To run MATLAB Application the user must have MATLAB installed on their device
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Clone the repo
+1. Clone the XPCA App repository 
    ```sh
    git clone https://github.com/ranjeetsn/XPCA_MATLAB_APP
    ```
