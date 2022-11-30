@@ -110,6 +110,7 @@ _Below is an example of how you can instruct your audience on installing and set
    
   * Data dimensions
     1. Check data dimensions below the load data component
+    <img src="readme_files/Data_info.jpg" alt="Data_dimensions" width="160" length="82">
     
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
