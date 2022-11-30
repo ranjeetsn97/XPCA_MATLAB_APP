@@ -114,30 +114,40 @@ _Below is an example of how you can instruct your audience on installing and set
     <img src="readme_files/Data_info.jpg" alt="data_dimension" width="160">
     </br>
     
-  * Model configurations
-    * Input and Output column (Inputs)
-      1. If the user loads the data as a `.mat` file, the user inputs the input column or the output column in the .mat file, eg.
-         ```sh
-         input col.: [1,2,3] output col.: [4:5], # .mat Data file has inputs in column 1,2,3 and outputs in column 4,5
-         ```
-      2. For `MATLAB Time Series object` the inputs and output columns are readily extracted without any user inputs
-    
-     * Noise Model (radio button)
-       1. Choose Static for Static process
-       2. Choose Dynamic for Dynamic process (Please note app currently supports SISO dynamic processes only)
-       
-     * Noise Variances (radio button)
-       1. If the user knows the variance of input and output variables the user must choose `Known`. The app then prompts the user to input the variances in the     advanced options section.
-       2. The user can choose to have `Unknown` variances then the algorithm calculates the variance of the variables.
-      
-     * Model Order (radio button)
-       1. If the user knows the order of model the user must choose `Known`. The app then prompts the user to input the order in the advanced options section.
-       2. The user can choose to have `Unknown` order then the algorithm calculates the order of the variable.
-       
-        ![Known Variance Order](readme_files/XPCA_variance_order.gif)   
+* Model configurations
+  * Input and Output column (Inputs)
+    1. If the user loads the data as a `.mat` file, the user inputs the input column or the output column in the .mat file, eg.
+       ```sh
+       input col.: [1,2,3] output col.: [4:5], # .mat Data file has inputs in column 1,2,3 and outputs in column 4,5
+       ```
+    2. For `MATLAB Time Series object` the inputs and output columns are readily extracted without any user inputs
 
-      * Lag (Inputs)
-        1. For Dynamic processes the application prompts the user to give an upper bound to the order of the model which is defined as lag. The default value of the lag is 15 that means the order of the model must be less than 15. To read more on order please refer [here](https://www.me.psu.edu/cimbala/me345/Lectures/Dynamic_systems.pdf).
+   * Noise Model (radio button)
+     1. Choose Static for Static process
+     2. Choose Dynamic for Dynamic process (Please note app currently supports SISO dynamic processes only)
+
+   * Noise Variances (radio button)
+     1. If the user knows the variance of input and output variables the user must choose `Known`. The app then prompts the user to input the variances in the     advanced options section.
+     2. The user can choose to have `Unknown` variances then the algorithm calculates the variance of the variables.
+
+   * Model Order (radio button)
+     1. If the user knows the order of model the user must choose `Known`. The app then prompts the user to input the order in the advanced options section.
+     2. The user can choose to have `Unknown` order then the algorithm calculates the order of the variable.
+
+      ![Known Variance Order](readme_files/XPCA_variance_order.gif)   
+
+    * Lag (Inputs)
+      1. For Dynamic processes the application prompts the user to give an upper bound to the order of the model which is defined as lag. The default value of the lag is 15 that means the order of the model must be less than 15. To read more on order please refer [here](https://www.me.psu.edu/cimbala/me345/Lectures/Dynamic_systems.pdf).
+
+* Model Estimation
+    * Build Model (Button)
+      1. To build model for Dynamic or Static process the user must press the button. It will open up a pop-up showing the log of eigenvalues vs assumed lag plot, along with the order of the model either calculated or as inserted by the user
+      2. The pop up will also show the variance of the variables as well as the model coefficients as shown in the gif below:
+      
+      ![Model_building](readme_files/XPCA_variance_order.gif)
+      
+* Model Validation
+     * Compute Confidence Interval (Button)
     
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
