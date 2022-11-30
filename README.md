@@ -157,9 +157,14 @@ To run MATLAB Application the user must have MATLAB installed on their device
     * Cross Validate (Button)
       1. After pressing the button a pop-up prompts the user which contains for model comparison with data and the predicted data (currently this feature is only supported for the dynamic processes)
       2. The user must load the data for comparison in the pop-up
+      
+      ![Model_comparison_cross_valid](readme_files/XPCA_comparison_1.gif)
+      
     * Model Comparison (Button)
       1. After pressing the button a pop-up prompts the user to compare the XPCA model to other models for a dataset. The user can load many models for comparison and can also load multiple datas (the user can only compare one data at a time however can compare multiple models)
       2. The user must load the data sets and the model for comparison in the pop-up
+      
+      ![Model_comparison_cross_valid](readme_files/XPCA_comparison_1.gif)
     
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
