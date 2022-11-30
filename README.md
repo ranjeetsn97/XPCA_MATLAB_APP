@@ -127,12 +127,17 @@ _Below is an example of how you can instruct your audience on installing and set
        2. Choose Dynamic for Dynamic process (Please note app currently supports SISO dynamic processes only)
        
      * Noise Variances (radio button)
-       1. If the user knows the variance of input and output variables the user must choose `Known`. The app then prompts the user to input the variables in the     advanced options section
+       1. If the user knows the variance of input and output variables the user must choose `Known`. The app then prompts the user to input the variances in the     advanced options section.
+       2. The user can choose to have `Unknown` variances then the algorithm calculates the variance of the variables.
       
      * Model Order (radio button)
-       1. If the user knows the variance of input and output variables the user must choose `Known`. The app then prompts the user to input the variables in the     advanced options section
+       1. If the user knows the order of model the user must choose `Known`. The app then prompts the user to input the order in the advanced options section.
+       2. The user can choose to have `Unknown` order then the algorithm calculates the order of the variable.
        
-    ![Known Variance Order](readme_files/XPCA_variance_order.gif)   
+        ![Known Variance Order](readme_files/XPCA_variance_order.gif)   
+
+      * Lag (Inputs)
+        1. For Dynamic processes the application prompts the user to give an upper bound to the order of the model which is defined as lag. The default value of the lag is 15 that means the order of the model must be less than 15. To read more on order please refer [here](https://www.me.psu.edu/cimbala/me345/Lectures/Dynamic_systems.pdf).
     
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
