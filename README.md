@@ -128,6 +128,11 @@ _Below is an example of how you can instruct your audience on installing and set
        
      * Noise Variances (radio button)
        1. If the user knows the variance of input and output variables the user must choose `Known`. The app then prompts the user to input the variables in the     advanced options section
+      
+     * Model Order (radio button)
+       1. If the user knows the variance of input and output variables the user must choose `Known`. The app then prompts the user to input the variables in the     advanced options section
+       
+       ![]()
     
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
