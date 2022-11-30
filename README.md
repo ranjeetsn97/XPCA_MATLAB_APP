@@ -229,7 +229,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: XPCA_screenshot.jpg
+[product-screenshot]: readme_files/XPCA_screenshot.jpg
 [Matlab.com]: https://img.shields.io/badge/M-MATLAB-orange
 [Matlab-url]: https://in.mathworks.com/products/matlab.html
 [MatlabApp.com]: https://img.shields.io/badge/M-MATLAB%20App%20designer-orange
