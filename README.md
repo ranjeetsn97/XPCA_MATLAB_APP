@@ -132,9 +132,7 @@ _Below is an example of how you can instruct your audience on installing and set
      * Model Order (radio button)
        1. If the user knows the variance of input and output variables the user must choose `Known`. The app then prompts the user to input the variables in the     advanced options section
        
-    <br>
-    <img src="readme_files/XPCA_variance_order.gif" alt="Known_variance_order" width="160">
-    </br>
+    ![Known Variance Order](readme_files/XPCA_variance_order.gif)   
     
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
