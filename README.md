@@ -142,7 +142,7 @@ To run MATLAB Application the user must have MATLAB installed on their device
       1. To build model for Dynamic or Static process the user must press the button. It will open up a pop-up showing the log of eigenvalues vs assumed lag plot, along with the order of the model either calculated or as inserted by the user
       2. The pop up will also show the variance of the variables as well as the model coefficients as shown in the gif below:
       
-      ![Model_building](readme_files/XPCA_variance_order.gif)
+      ![Model_building](readme_files/XPCA_build_model.gif)
       
 * Model Validation
     * Compute Confidence Interval (Button)
@@ -150,6 +150,8 @@ To run MATLAB Application the user must have MATLAB installed on their device
       2. The parameters are for the bootstrap models in the Advanced Options - Model Validation. Here the user chooses the size of the Bootstraps model, the user must take care that the size of the bootstrap is less than length of data, the number of bootstraps, the higher the number of bootstraps the better the accuracy of the bootstrap but it also slows down the application, confidence interval percentage(CI significance) of the bootstrap, which constructs the interval depending on the CI significance value. If the Confidence interval for the coefficient contains zero it implies the model coefficient is insignificant.
     * Compute Residuals (Button)
       1. To check for whiteness of the data residuals we use the EIV Kalman filter. If the residuals are white then all the maximum possible information from the data has been extracted and no more information can be extracted from the data.
+      
+      ![Model_validation](readme_files/XPCA_validation.gif)
     
 * Model comparison (feature only supported for dynamic models)
     * Cross Validate (Button)
