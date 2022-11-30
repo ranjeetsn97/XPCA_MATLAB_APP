@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ranjeetsn/XPCA_MATLAB_APP">
-    <img src="XPCA_app_logo.jpg" alt="Logo" width="320" height="148">
+    <img src="readme_files/XPCA_app_logo.jpg" alt="Logo" width="320" height="148">
   </a>
 
   <h3 align="center">XPCA Application MATLAB</h3>
