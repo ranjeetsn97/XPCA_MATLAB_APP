@@ -110,7 +110,7 @@ _Below is an example of how you can instruct your audience on installing and set
    
   * Data dimensions
     1. Check data dimensions below the load data component
-    <img src="readme_files/Data_info.jpg" alt="Data_dimensions" width="160" length="82">
+    [![Data Dimensions][Datadimensions]]()
     
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -182,3 +182,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [MatlabApp-url]: https://in.mathworks.com/products/matlab/app-designer.html
 [Matlabguide.com]: https://img.shields.io/badge/M-MATLAB%20GUIDE-orange
 [Matlabguide-url]: https://in.mathworks.com/help/matlab/migrate-guide-apps.html
+[Datadimensions]: readme_files/Data_info.jpg
